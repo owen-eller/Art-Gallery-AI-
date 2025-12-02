@@ -44,58 +44,7 @@ Each component is modular, making it easy to expand with real museum APIs, datab
 
 ---
 
-
-## 🔧 Installation & Setup
-
-### **1. Clone the Repository**
-
-```bash
-git clone https://github.com/YOUR_USERNAME/art-gallery-chatbot.git
-cd art-gallery-chatbot
-```
-
-### **2. Create a Virtual Environment**
-
-```bash
-python3 -m venv venv
-source venv/bin/activate   # macOS/Linux
-venv\Scripts\activate      # Windows
-```
-
-### **3. Install Dependencies**
-
-```bash
-pip install -r requirements.txt
-```
-
-### **4. Add OpenAI API Key**
-
-Create a `.env` file:
-
-```
-OPENAI_API_KEY=your_api_key_here
-```
-
-Your key will load automatically using `python-dotenv`.
-
----
-
-## ▶️ Running the Application
-
-Launch Streamlit:
-
-```bash
-streamlit run app.py
-```
-
-Open the UI in your browser:
-[http://localhost:8501](http://localhost:8501)
-
----
-
 ## Usage
-
-Once the app loads:
 
 1. Type any question about artists, exhibitions, or artworks
 2. The chatbot generates a concise, friendly answer
@@ -117,11 +66,11 @@ User: {question}
 Assistant:
 ```
 
-This ensures:
-Consistent tone
-Factual responses
-Controlled length
-Avoidance of hallucination
+This ensures 
+* Consistent tone
+* Factual responses
+* Controlled length
+* Avoidance of hallucination
 
 ---
 
@@ -174,5 +123,6 @@ Example log entry:
 | Data Layer  | Python Dictionary API                 |
 | Logging     | Python `logging` module               |
 | Environment | `.env` with `python-dotenv`           |
+
 
 

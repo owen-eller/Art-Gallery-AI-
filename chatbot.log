@@ -1,0 +1,21 @@
+2025-11-16 20:35:42,382 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-16 20:35:42,406 - INFO - User asked: modern art
+2025-11-16 20:35:42,407 - INFO - Bot responded: Welcome to our gallery! Our current modern art exhibition features works by contemporary artists exploring themes of identity and technology. Would you like a guided tour to learn more about the artists and their inspirations?
+2025-11-16 20:38:38,650 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-16 20:38:38,671 - INFO - User asked: what art is cool
+2025-11-16 20:38:38,671 - INFO - Bot responded: Hello! We have a current exhibition featuring contemporary artist Banksy, known for his thought-provoking street art. His work often addresses political and social issues in a playful and satirical way. Would you like more information on his pieces?
+2025-11-16 20:40:25,398 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-16 20:40:25,406 - INFO - User asked: tell me about art styles
+2025-11-16 20:40:25,406 - INFO - Bot responded: Of course! We have a variety of art styles on display, including abstract, impressionism, and contemporary art. Each style offers a unique perspective and interpretation of the world.
+2025-11-18 12:27:06,586 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-18 12:27:06,603 - INFO - User asked: modern art
+2025-11-18 12:27:06,603 - INFO - Bot responded: Hello! Our current modern art exhibition features works by contemporary artists exploring themes of identity and technology through a variety of mediums such as painting, sculpture, and video installations. Feel free to ask any questions or let me know if you'd like more information on any specific artist or artwork.
+2025-11-20 16:56:51,431 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-20 16:56:51,447 - INFO - User asked: modern art
+2025-11-20 16:56:51,448 - INFO - Bot responded: Hello! Our current modern art exhibition features works by contemporary artists exploring themes of identity and technology. Be sure to check out the striking abstract paintings by artist XYZ, known for their use of bold colors and geometric shapes.
+2025-12-01 14:05:05,032 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-01 14:05:05,048 - INFO - User asked: modern art
+2025-12-01 14:05:05,048 - INFO - Bot responded: Hello! Our current modern art exhibition showcases works by contemporary artists exploring themes of identity and technology through innovative mediums such as video installations and mixed media sculptures. Feel free to ask if you have any questions about the artists or their creative processes.
+2025-12-02 15:05:46,654 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-02 15:05:46,673 - INFO - User asked: what art is cool
+2025-12-02 15:05:46,673 - INFO - Bot responded: We have a variety of cool art on display, from contemporary abstract paintings to intricate sculptures. One of our popular exhibitions features the work of a local artist who uses recycled materials to create thought-provoking installations.
